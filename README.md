@@ -32,13 +32,6 @@ I'm an ML infrastructure engineer with six years of experience building distribu
 - **Execution engine:** Redesigned the dispatcher to reduce compilation time from **5 minutes to 34 seconds** and halve end-to-end latency by removing Python/C++ boundary crossings.
 - **Parallel algorithms:** Accelerated bitonic sort and k-th largest selection by **10×**.
 
-## Technical Interests
-
-- **LLM inference & serving:** MoE serving, distributed inference, GPU infrastructure, performance and reliability
-- **Retrieval systems:** Vector search, hybrid retrieval, query serving, retrieval for agentic applications
-- **Distributed systems:** Execution engines, scheduling, performance optimization
-
-
 ## Publication & Talks
 
 - **AAAI 2021:** *Visual Boundary Knowledge Translation for Foreground Segmentation*. Proceedings of the AAAI Conference on Artificial Intelligence, 35(2), 1334–1342.
