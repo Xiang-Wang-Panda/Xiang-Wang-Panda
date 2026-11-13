@@ -15,7 +15,7 @@ I'm an ML infrastructure engineer with six years of experience building distribu
 *Hong Kong · Jun 2024 – Present*
 
 - **LLM serving:** Serve LLM backends for Teamily, an AI-native collaboration platform for humans and agents. Operate self-hosted **DeepSeek MoE** and **Qwen** models, plus embedding and reranking models, on an in-house GPU cluster, with a unified provider layer and automatic failover.
-- **Retrieval serving:** Designed and built a unified retrieval service using **Milvus, Redis, and model serving**, supporting multi-agent memory, agent search/recommendation, and artifact search/recommendation.
+- **Retrieval serving:** Designed and built a unified retrieval service using **Milvus, Redis, and model serving**, supporting multi-agent memory, agent search/recommendation, and artifact search/recommendation. Presented this work at Milvus Unstructured Data Meetup, Shenzhen (Oct 31, 2026).
 - **On-device AI:** Worked with Samsung to port and optimize three multimodal generative models (voice cloning, video generation, and 3D generation) for mobile SoCs; demos were shown at **CES 2025**.
 
 ### KE Holdings (贝壳找房) · Machine Learning Infrastructure Engineer
